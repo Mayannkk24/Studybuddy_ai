@@ -1,0 +1,4 @@
+studybuddy_env/
+venv/
+.env
+__pycache__/
